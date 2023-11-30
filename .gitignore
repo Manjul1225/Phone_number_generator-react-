@@ -1,0 +1,5 @@
+lib
+.idea
+node_modules
+package-lock.json
+animation.gif
